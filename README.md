@@ -4,11 +4,13 @@
 Playing with Tye in order to run microservices
 ```
 
-> This repo contains samples inspired from [Tye documentation](https://github.com/dotnet/tye/tree/master/docs) :
+> In this demo, i m experimenting Tye with some samples inspired from [documentation](https://github.com/dotnet/tye/tree/master/docs) :
 >
 > `Microservice`
-> - Frontend service (razor webapp)
-> - Backend service (webapi)
+> - `Service` Frontend (razor webapp)
+> - `Service` Backend (webapi)
 >
 
-**`Tools`** : vs19, net core 3.1
+> *Tye is installed as a global tool (0.4.0-alpha.20371.1)
+
+**`Tools`** : vs19, net core 3.1, tye

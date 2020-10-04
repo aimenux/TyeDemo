@@ -6,7 +6,7 @@ Playing with Tye in order to run microservices
 
 > This repo contains samples inspired from [Tye documentation](https://github.com/dotnet/tye/tree/master/docs) :
 >
-> `Microservice`
+> Sample(1): `Microservice`
 > - Frontend service (razor webapp)
 > - Backend service (webapi)
 >

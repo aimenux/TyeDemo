@@ -3,7 +3,7 @@
 Microservice with two services (frontend & backend)
 ```
 
-> This sample is based on this [microsoft blog post](https://devblogs.microsoft.com/aspnet/introducing-project-tye/) about Tye.
+> This sample is based on this [microsoft blog post](https://devblogs.microsoft.com/aspnet/introducing-project-tye/) about [Tye](https://github.com/dotnet/tye).
 
 PS TyeDemo\Microservice> tye run
 Loading Application Details...

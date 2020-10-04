@@ -10,7 +10,7 @@ Playing with Tye in order to run microservices
 > - `Service` Frontend (razor webapp)
 > - `Service` Backend (webapi)
 >
-
-> *Tye is installed as a global tool (0.4.0-alpha.20371.1)
+>
+> Tye is installed as a global tool (0.4.0-alpha.20371.1)
 
 **`Tools`** : vs19, net core 3.1, tye

@@ -5,6 +5,7 @@ Microservice with two services (frontend & backend)
 
 > This sample is based on this [microsoft blog post](https://devblogs.microsoft.com/aspnet/introducing-project-tye/) about [Tye](https://github.com/dotnet/tye).
 
+```
 PS TyeDemo\Microservice> tye run
 Loading Application Details...
 Launching Tye Host...
@@ -26,5 +27,6 @@ Launching Tye Host...
 [13:24:19 INF] Event pipe collection completed for backend_5c29e32a-b on process id 20468
 [13:24:19 INF] backend_5c29e32a-b process exited with exit code -1
 [13:24:19 INF] frontend_7e5e1060-6 process exited with exit code -1
+```
 
 **`Tools`** : vs19, net core 3.1, tye

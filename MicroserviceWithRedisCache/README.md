@@ -5,6 +5,7 @@ Microservice with two services (frontend & backend) & redis cache
 
 > This sample is based on this [microsoft blog post](https://devblogs.microsoft.com/aspnet/introducing-project-tye/) about [Tye](https://github.com/dotnet/tye).
 
+```
 PS TyeDemo\MicroserviceWithRedisCache> tye run
 Loading Application Details...
 Launching Tye Host...
@@ -74,5 +75,6 @@ Launching Tye Host...
 [22:30:31 INF] Running docker command network connect tye_network_9044bd25-7 backend-proxy_ac909be4-b --alias backend
 [22:30:32 INF] Collecting docker logs for backend-proxy_ac909be4-b.
 [22:30:32 INF] Collecting docker logs for frontend-proxy_cc9ef163-a.
+```
 
 **`Tools`** : vs19, net core 3.1, redis, tye

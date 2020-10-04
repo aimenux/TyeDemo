@@ -9,7 +9,10 @@ Playing with Tye in order to run microservices
 > `Microservice`
 > - `Service` Frontend (razor webapp)
 > - `Service` Backend (webapi)
->
+> `MicroserviceWithRedisCache`
+> - `Service` Frontend (razor webapp)
+> - `Service` Backend (webapi)
+> - `Dependency` Redis (distributed cache)
 >
 > [Tye](https://github.com/dotnet/tye) is installed as a global tool (0.4.0-alpha.20371.1)
 
